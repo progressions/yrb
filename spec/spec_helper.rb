@@ -4,6 +4,8 @@ require 'yrb'
 require 'spec'
 require 'spec/autorun'
 
+require 'stubs'
+
 Spec::Runner.configure do |config|
   
 end
