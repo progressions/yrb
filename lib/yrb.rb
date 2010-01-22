@@ -1,4 +1,4 @@
-# Process Yahoo! Resource Bundle format translation files and convert them to a hash.
+# Processes Yahoo! Resource Bundle format translation files and converts them to a hash.
 #
 # === Options
 #

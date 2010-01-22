@@ -1,6 +1,6 @@
 = yrb
 
-Description goes here.
+Processes Yahoo! Resource Bundle format translation files and converts them to a hash.
 
 == Note on Patches/Pull Requests
  
@@ -14,4 +14,4 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2010 Jeff Coleman. See LICENSE for details.
+Copyright (c) 2010 Capital Thought. See LICENSE for details.

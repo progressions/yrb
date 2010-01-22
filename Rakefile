@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "yrb"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{Processes Yahoo! Resource Bundle format translation files.}
+    gem.description = %Q{Processes Yahoo! Resource Bundle format translation files and converts them to a hash.}
     gem.email = "progressions@gmail.com"
     gem.homepage = "http://github.com/progressions/yrb"
     gem.authors = ["Jeff Coleman"]
